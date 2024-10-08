@@ -13,7 +13,7 @@ public class Inicio {
 
         String usuario = "postgres";
 
-        String contraseña = "Altair006";
+        String contraseña = "contrasenia";
 
 
         try {
